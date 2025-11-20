@@ -26,6 +26,7 @@
   - Công tắc hành trình
   - RFID
   - BUZZER
+  - IC74HC04
 
 🔌  Sơ đồ kết nối
 
